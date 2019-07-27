@@ -1,0 +1,118 @@
+#EXTINF:0 tvg-name="Jaya Plus" tvg-language="Tamil" tvg-country="IN" tvg-id="Jaya Plus" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/jayaplus.jpg" group-title="News",Jaya Plus (News) (IN) (Tamil)
+rtmp://78.46.17.7/live/myStream.sdp
+#EXTINF:0 tvg-name="Jaya TV" tvg-language="Tamil" tvg-country="UK" tvg-id="Jaya TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMVY62nU1afzvheW8cFYOVHcvRVk3e5Kb_FJ0c1zlE3WHofqsWXR8mEg" group-title="News",Jaya TV (News) (UK) (Tamil)
+http://hlsengextra-lh.akamaihd.net/i/hls26_jayatvuk5@4914/index_1000.m3u8
+#EXTINF:0 tvg-name="Kalaignar Seithigal TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Kalaignar Seithigal TV" tvg-logo="http://talkiesnow.com/wp-content/uploads/2015/05/seithigal.jpg" group-title="News",Kalaignar Seithigal TV (News) (IN) (Tamil)
+http://367449830.r.cdnsun.net/367449830/_definst_/seithigal/chunklist_w456641487.m3u8
+#EXTINF:0 tvg-name="Puthiyathalaimurai TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Puthiyathalaimurai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwz8pEargKQ_EHRQGF1_qQAaWufDn_U5YtwP2jcVnrtjL3y61ccgdBlQ" group-title="News",Puthiyathalaimurai TV (News) (IN) (Tamil)
+http://dzamqgwxt2cln.cloudfront.net/ngmedia/ptm_400/chunklist.m3u8
+#EXTINF:0 tvg-name="KBS World" tvg-language="Korean" tvg-country="MY" tvg-id="KBS World" tvg-logo="https://rayvblog.files.wordpress.com/2011/10/kbs_world2.png" group-title="News",KBS World (News) (MY) (Korean)
+rtmp://118.97.183.196/jhos//kbs
+#EXTINF:0 tvg-name="KTVU 2" tvg-language="English" tvg-country="US" tvg-id="KTVU 2" tvg-logo="http://www.habitot.org/hab/newsletter/logos/ktvu_logo.jpg" group-title="News",KTVU 2 (News) (US) (English)
+http://ktvulive-i.akamaihd.net/hls/live/224677/ktvu1/master.m3u8
+#EXTINF:0 tvg-name="KURDSAT NEWS TV" tvg-language="Kurdish" tvg-country="IQ" tvg-id="KURDSAT NEWS TV" tvg-logo="http://garmyani.com/tvradios/images/kurdsatnews.jpg" group-title="News",KURDSAT NEWS TV (News) (IQ) (Kurdish)
+http://68.168.105.117/live/autoHLS/livestream/livestream.m3u8
+#EXTINF:0 tvg-name="Kalaignar Seithigal TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Kalaignar Seithigal TV" tvg-logo="http://talkiesnow.com/wp-content/uploads/2015/05/seithigal.jpg" group-title="News",Kalaignar Seithigal TV (News) (IN) (Tamil)
+http://367449830.r.cdnsun.net/367449830/_definst_/seithigal/chunklist_w456641487.m3u8
+#EXTINF:0 tvg-name="News 7" tvg-language="Tamil" tvg-country="LK" tvg-id="News 7" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="News",News 7 (News) (LK) (Tamil)
+http://d3ckekzltx4vtl.cloudfront.net/ns7org/smil:ns7.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Tamil Aruvi" tvg-language="Tamil" tvg-country="IN" tvg-id="Tamil Aruvi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuCmb-c1t-PUsou3UP6ygz2kwuIHYTrC6JfEFzOHmPp9rQTfGZ1qVHyNI" group-title="News",Tamil Aruvi (News) (IN) (Tamil)
+http://91.82.85.44:1935/scr8174/lives078.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="ARRATV" tvg-language="Tamil" tvg-country="IN" tvg-id="ARRATV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",ARRATV (Entertainment) (IN) (Tamil)
+http://d2capdtzvh4kor.cloudfront.net/arratvorg/smil:arratv.smil/chunklist_b650000.m3u8
+#EXTINF:0 tvg-name="AXN" tvg-language="English" tvg-country="VN" tvg-id="AXN" tvg-logo="https://lh6.googleusercontent.com/-5bNclHdEI2g/TXp864LYeeI/AAAAAAAAPhA/7kAM3fRo4C4/s1600/AXN-logo.svg.png" group-title="Entertainment",AXN (Entertainment) (VN) (English)
+http://94.23.35.42/cCloudTv/parser.php?surl=http://stream.anluong.info/xemlivetv/axn_ntv.php
+#EXTINF:0 tvg-name="Aathavan TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Aathavan TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7pyAC2OIAFCbBS_A0SmEHUI3KVhBIzLWT4qmL6B9g-uR83wRGcIYJ" group-title="Entertainment",Aathavan TV (Entertainment) (IN) (Tamil)
+http://play-fs.amgiptv.com/vxtvathavan/athavantvlive.stream/playlist.m3u8
+#EXTINF:0 tvg-name="Akaram TV" tvg-language="Tamil" tvg-country="UK" tvg-id="Akaram TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQprFbbEzJ8WwePFADZ1t147QRoxrJFiVYVFNYZcx3KIHqsQKBEEpLWfA" group-title="Entertainment",Akaram TV (Entertainment) (UK) (Tamil)
+http://uk1.zecast.com/star-live-1/_definst_/mp4:akaram2015/chunklist_w1399877540.m3u8
+#EXTINF:0 tvg-name="Ambaal TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Ambaal TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrmtg8ZVf6JjF3U5T8t9O8kgeovZzbs0aeuTMxhgftcmQ8hLh1QGry6Q" group-title="Entertainment",Ambaal TV (Entertainment) (IN) (Tamil)
+http://ambaaltv.adstream.eu:1935/live/ambaaltv/chunklist_w14253647.m3u8
+#EXTINF:0 tvg-name="Benze TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Benze TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Benze TV (Entertainment) (IN) (Tamil)
+rtmp://162.249.6.51/demo/myStream
+#EXTINF:0 tvg-name="Bollywood Masala" tvg-language="English/Hindi" tvg-country="US" tvg-id="Bollywood Masala" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvvEzzrCdzIgdPgbW8mxkN3JXmSnzVIA8GebNrXwtyjftdoeN3_bOccg" group-title="Entertainment",Bollywood Masala (Entertainment) (US) (English/Hindi)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD191_W_350.sdp/chunklist.m3u8?time%3D1451081767404
+#EXTINF:0 tvg-name="Boss TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Boss TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Boss TV (Entertainment) (IN) (Tamil)
+rtmp://bosstv1.chennaistream.net/bosstv/bosstv.stream
+#EXTINF:0 tvg-name="CO TV" tvg-language="Tamil" tvg-country="IN" tvg-id="CO TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",CO TV (Entertainment) (IN) (Tamil)
+rtmp://162.249.6.51/cotv/myStream
+#EXTINF:0 tvg-name="CTN TV" tvg-language="Tamil" tvg-country="IN" tvg-id="CTN TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",CTN TV (Entertainment) (IN) (Tamil)
+rtmp://162.249.6.51/ctntv/myStream
+#EXTINF:0 tvg-name="Chithiram" tvg-language="Tamil" tvg-country="LK" tvg-id="Chithiram" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS84Cuga9PyPiBI9hEUzmCA-JkLq_ckmLTllfJr_g-Ej-uhwLGAQMpLDw" group-title="Entertainment",Chithiram (Entertainment) (LK) (Tamil)
+http://akamaihd.wowzahls21.yuppcdn.net/live/chithiram/chunklist.m3u8
+#EXTINF:0 tvg-name="Deepam TV" tvg-language="Tamil" tvg-country="UK" tvg-id="Deepam TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVWQCEP5dqKKUW1asbUwuQyt9chxcJurr53DweAuVb_Zd5q0wKMqR7jCk" group-title="Entertainment",Deepam TV (Entertainment) (UK) (Tamil)
+http://185.59.222.89:1935/cdn/deepamtvuk.stream/chunklist_w32033995.m3u8
+#EXTINF:0 tvg-name="Dheeran Tv" tvg-language="Tamil" tvg-country="IN" tvg-id="Dheeran Tv" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpAM1mSvc9g7_nvUL-zeazQcnEvfe2cs4aQP6dsWum2ZtHdAfMyWk48g" group-title="Entertainment",Dheeran Tv (Entertainment) (IN) (Tamil)
+http://dogwamnhemjme.cloudfront.net/dheeranorg/smil:dheeran.smil/chunklist_b512000.m3u8
+#EXTINF:0 tvg-name="EE TV" tvg-language="Tamil" tvg-country="IN" tvg-id="EE TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",EE TV (Entertainment) (IN) (Tamil)
+http://37.59.17.222:1935/live_ca/eettv/chunklist.m3u8
+#EXTINF:0 tvg-name="Engada TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Engada TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Engada TV (Entertainment) (IN) (Tamil)
+http://live.streamjo.com/eettv/engadatv/chunks.m3u8
+#EXTINF:0 tvg-name="IBC Tamil" tvg-language="Tamil" tvg-country="IN" tvg-id="IBC Tamil" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKbV28SuLnPhIELDfTXpb8o4cTZ_tEqJqQWcfQ6qWu6eaCLHJLrC4twos" group-title="Entertainment",IBC Tamil (Entertainment) (IN) (Tamil)
+rtmp://151.252.39.132/live/ibctamil_tv
+#EXTINF:0 tvg-name="Imayam TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Imayam TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMF5ZNOwfueg7OY31e_o4_GZb6bvMjDdtqAy6rUPNe8DWgrYIqfE-lZg" group-title="Entertainment",Imayam TV (Entertainment) (IN) (Tamil)
+rtmp://stream.akamain.info/live/imayamtv
+#EXTINF:0 tvg-name="Isai Aruvi" tvg-language="Tamil" tvg-country="LK" tvg-id="Isai Aruvi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuCmb-c1t-PUsou3UP6ygz2kwuIHYTrC6JfEFzOHmPp9rQTfGZ1qVHyNI" group-title="Entertainment",Isai Aruvi (Entertainment) (LK) (Tamil)
+http://akamaihd.wowzahls21.yuppcdn.net/live/isaiaruvi/chunklist.m3u8
+#EXTINF:0 tvg-name="Isaiaruvi" tvg-language="Tamil" tvg-country="IN" tvg-id="Isaiaruvi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgXilU4dqjt1BMbcAwMnQ5WJg7MUqgZg4pgkrJd0pgjqIoEC8pIpPq95A" group-title="Entertainment",Isaiaruvi (Entertainment) (IN) (Tamil)
+http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8
+#EXTINF:0 tvg-name="Jaya TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Jaya TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Jaya TV (Entertainment) (IN) (Tamil)
+http://185.59.222.89:1935/cdn/jayatvhd/chunklist_w2141576240.m3u8
+#EXTINF:0 tvg-name="Kathir TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Kathir TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Kathir TV (Entertainment) (IN) (Tamil)
+rtmp://162.249.6.51/kathirtv/myStream
+#EXTINF:0 tvg-name="Krishna TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Krishna TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlOUpid7BFjykX8aObmdAGbxycK9cEtmh8AQz1opNajemUFc5DoJguqA" group-title="Entertainment",Krishna TV (Entertainment) (IN) (Tamil)
+rtmp://krishnatv.livewebcast.in/krishnatv/krishnatv.stream
+#EXTINF:0 tvg-name="Krishna TV" tvg-language="Tamil" tvg-country="LK" tvg-id="Krishna TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlOUpid7BFjykX8aObmdAGbxycK9cEtmh8AQz1opNajemUFc5DoJguqA" group-title="Entertainment",Krishna TV (Entertainment) (LK) (Tamil)
+http://krishnatv1.livewebcast.in/krishnatv1/_definst_/mp4:krishnatvlive/playlist.m3u8
+#EXTINF:0 tvg-name="Makkal TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Makkal TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH0N_ECPcYTV_taj3qtM35B0g1uSeTrWmVgsh66sA9FkrDwwqO8cVDU7w" group-title="Entertainment",Makkal TV (Entertainment) (IN) (Tamil)
+http://d2afgi50xkghyg.cloudfront.net/makkalorg/smil:makkaltv.smil/chunklist_b650000.m3u8
+#EXTINF:0 tvg-name="Masala TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Masala TV" tvg-logo="http://www.cutetamil.net/puthusu/wp-content/uploads/2015/05/masalatv.jpg" group-title="Entertainment",Masala TV (Entertainment) (IN) (Tamil)
+http://188.166.127.249:1935/masalatv/myStream/playlist.m3u8
+#EXTINF:0 tvg-name="Moon TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Moon TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Moon TV (Entertainment) (IN) (Tamil)
+rtmp://49.207.182.189:1953/hls/moonvision
+#EXTINF:0 tvg-name="Murasu Tamil" tvg-language="Tamil" tvg-country="IN" tvg-id="Murasu Tamil" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Murasu Tamil (Entertainment) (IN) (Tamil)
+http://185.59.222.89:1935/cdn/murasuhd/chunklist_w2023623538.m3u8
+#EXTINF:0 tvg-name="Nethra Tv" tvg-language="Tamil" tvg-country="IN" tvg-id="Nethra Tv" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRaYBZR-Hduq2bUsITsHxffVAN3YN3ttilweNLucym_FF2GF1fSDRDng" group-title="Entertainment",Nethra Tv (Entertainment) (IN) (Tamil)
+http://dammikartmp.tulix.tv/slrc2/slrc2/chunklist_w1895559978.m3u8
+#EXTINF:0 tvg-name="Puthuyugam TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Puthuyugam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnTC1Uwf0SwpK1Mti94I_0hq5mELI32SQyrwcHHhfRkvfqluR1o_1S5vUp" group-title="Entertainment",Puthuyugam TV (Entertainment) (IN) (Tamil)
+http://d211bpuke56xnv.cloudfront.net/ngmedia/pym_400/chunklist.m3u8
+#EXTINF:0 tvg-name="Ragam TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Ragam TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Ragam TV (Entertainment) (IN) (Tamil)
+rtmp://103.235.104.53/live/livestream
+#EXTINF:0 tvg-name="Santhora TV" tvg-language="Tamil" tvg-country="DE" tvg-id="Santhora TV" tvg-logo="http://www.weebly.com/uploads/1/0/6/7/10670567/3468369.png" group-title="Entertainment",Santhora TV (Entertainment) (DE) (Tamil)
+rtmp://rtmp.santhoratv.zecast.net/santhoratv/santhoratv
+#EXTINF:0 tvg-name="Super Tv" tvg-language="Tamil" tvg-country="IN" tvg-id="Super Tv" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Super Tv (Entertainment) (IN) (Tamil)
+http://dqecwlqapeidz.cloudfront.net/supertvorg/smil:supertv.smil/chunklist_b650000.m3u8
+#EXTINF:0 tvg-name="Tamil Aruvi" tvg-language="Tamil" tvg-country="IN" tvg-id="Tamil Aruvi" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Tamil Aruvi (Entertainment) (IN) (Tamil)
+http://91.82.85.44:1935/scr8174/lives078.sdp/playlist.m3u8?wowzasessionid=636827979
+#EXTINF:0 tvg-name="Tamilan Tv" tvg-language="Tamil" tvg-country="IN" tvg-id="Tamilan Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZqA-D58jx7tPh--eK3kQHXFkmZ-PJf0v5B_OoyRGfnhkOnVyTgYAQzY" group-title="Entertainment",Tamilan Tv (Entertainment) (IN) (Tamil)
+rtmp://38.96.175.192:1943/live/tamilantelevision1
+#EXTINF:0 tvg-name="Thanthi Tv" tvg-language="Tamil" tvg-country="LK" tvg-id="Thanthi Tv" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3jWyo7zTQThlrf8tUolgwFPH5a8bGNBIULajLuj4flv_ErWtks19M_g" group-title="Entertainment",Thanthi Tv (Entertainment) (LK) (Tamil)
+http://d30zz3d0a9ty3e.cloudfront.net/httporg/smil:thanthitv.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Vanavil Plus" tvg-language="Tamil" tvg-country="IN" tvg-id="Vanavil Plus" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnfMdSIWG-TxZrOrOvaYoW2znNTw4JYixwz5YjwKQaEU6WqXSjJtE7lQ" group-title="Entertainment",Vanavil Plus (Entertainment) (IN) (Tamil)
+rtmp://162.249.6.51/vanavil/myStream
+#EXTINF:0 tvg-name="Vasanth TV Tamil" tvg-language="Tamil" tvg-country="IN" tvg-id="Vasanth TV Tamil" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Vasanth TV Tamil (Entertainment) (IN) (Tamil)
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w163082460.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:0 tvg-name="Vasantham TV" tvg-language="Tamil" tvg-country="LK" tvg-id="Vasantham TV" tvg-logo="http://www.weebly.com/uploads/1/0/6/7/10670567/9736031.png" group-title="Entertainment",Vasantham TV (Entertainment) (LK) (Tamil)
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:0 tvg-name="Vendhar TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Vendhar TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Vendhar TV (Entertainment) (IN) (Tamil)
+rtmp://162.249.6.51/vendhar/myStream
+#EXTINF:0 tvg-name="Vimbam TV Tamil" tvg-language="Tamil" tvg-country="IN" tvg-id="Vimbam TV Tamil" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuAcIahTH9OtJyPmeNpaoxyx_tClkNGqN8iVYYp09LTinhzD7mLOLGdEI" group-title="Entertainment",Vimbam TV Tamil (Entertainment) (IN) (Tamil)
+rtmp://91.219.43.148/vimbamtv/vimbamtv
+#EXTINF:0 tvg-name="Zee Tamil" tvg-language="Tamil" tvg-country="IN" tvg-id="Zee Tamil" tvg-logo="http://images.filmiclub.com/img/channel/zee-tamil.png" group-title="Entertainment",Zee Tamil (Entertainment) (IN) (Tamil)
+http://185.59.222.89:1935/cdn/zeetamilhd/playlist.m3u8
+#EXTINF:0 tvg-name="Yugam TV" tvg-language="Tamil" tvg-country="UK" tvg-id="Yugam TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Yugam TV (Entertainment) (UK) (Tamil)
+rtmp://162.249.6.51/live/myStream
+#EXTINF:0 tvg-name="Aruljothi Tv" tvg-language="Tamil" tvg-country="IN" tvg-id="Aruljothi Tv" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Family",Aruljothi Tv (Family) (IN) (Tamil)
+rtmp://162.249.6.51/aruljothi/myStream
+#EXTINF:0 tvg-name="MK" tvg-language="Tamil" tvg-country="LK" tvg-id="MK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAYdNgflWdyzqTS7_AqktdSX5kxABz1tBDLSzt46M47B7Dv36h2J3jD8" group-title="Family",MK (Family) (LK) (Tamil)
+http://d2tunwguqq620e.cloudfront.net/mktv/ngrp:mknews_all/playlist.m3u8
+#EXTINF:0 tvg-name="7S MUSIC" tvg-language="Tamil" tvg-country="IN" tvg-id="7S MUSIC" tvg-logo="http://logowow.net/logos/thumb-EoUSpsEtX.png" group-title="Music",7S MUSIC (Music) (IN) (Tamil)
+http://edgecast7smusic.purplestream.in/7smusicorg/ngrp:7smusic_all/playlist.m3u8
+#EXTINF:0 tvg-name="Channel UFX" tvg-language="Tamil" tvg-country="IN" tvg-id="Channel UFX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZ1sCPxBqrxNWIjTo8o-glM4AoDGty3FgBtNNivDgCmFOHhpQ6glhCA" group-title="Music",Channel UFX (Music) (IN) (Tamil)
+http://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Mk TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Mk TV" tvg-logo="http://www.sat-address.com/f/pics/logotipi/MK-TV-India_o.jpg" group-title="Music",Mk TV (Music) (IN) (Tamil)
+http://d2tunwguqq620e.cloudfront.net/mktv/ngrp:mknews_all/chunklist_b400000.m3u8
+#EXTINF:0 tvg-name="Peppers TV" tvg-language="Tamil" tvg-country="UK" tvg-id="Peppers TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLrUpeEOVmU0VQpGp_FvT-s3gjIITNDgauwidg-VGpRxEc7mu7wa1_xr0" group-title="Music",Peppers TV (Music) (UK) (Tamil)
+http://live.wmncdn.net/pepperstv/51f5cdae2cc7bd5e4e8e76b7357ae0f8.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Tune 6" tvg-language="Tamil" tvg-country="IN" tvg-id="Tune 6" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Music",Tune 6 (Music) (IN) (Tamil)
+rtmp://live.wmncdn.net/tunes6/72781e965e0681e980034a778ee7067b.sdp

@@ -144,6 +144,30 @@ http://161.0.157.5/PLTV/88888888/224/3221226709/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226542/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-HS1HOVc8Pco/V1KzBxqnwGI/AAAAAAAAPSk/jpsX35-SQegjSuSXmVJF3-oya_YL0-jpQCLcB/s1600/vasanth_tv.png" group-title="Entertainment",Vasanth TV Tamil
 http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="Infotainment",Discovery Channel*
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Discovery_Science_2nd_variant.png" group-title="Infotainment",Discovery Science*
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="Kids",Disney Junior
+https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
+#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="Sports",ESPN*
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="Sports",ESPN (SD)
+http://espn.tmedia.me/cache/espn1_540.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="Sports",ESPN (HD)
+http://espn.clinicalkey.icu/cache/espn1.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 (SD)
+http://espn.tmedia.me/cache/espn2_540.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 (HD)
+http://espn.clinicalkey.icu/cache/espn2.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="Sports",ESPN News
+http://espn.clinicalkey.icu/cache/espnews.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png" group-title="Sports",ESPNU
+http://espn.clinicalkey.icu/cache/espnu.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",California Music Channel (Opt-2)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",РORTAL FOXMIX TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",AMERICAN HORRORS [288p]
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="Kids",Cartoon Network (LA)
