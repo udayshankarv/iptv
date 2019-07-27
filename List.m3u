@@ -1,52 +1,55 @@
 #EXTM3U
-#EXTINF:-1,KTV HD (IN) group-title="Movies"
+#EXTINF:-1 group-title="Movies",KTV HD (IN) 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74744
-#EXTINF:-1,J Movies (IN) group-title="Movies"
+#EXTINF:-1  group-title="Movies",J Movies (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74771
-#EXTINF:-1,Sun Music HD (IN) group-title="Music"
+#EXTINF:-1 group-title="Music",Sun Music HD (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74613
-#EXTINF:-1,Star Vijay (IN) group-title="Entertainment"
+#EXTINF:-1  group-title="Entertainment",Star Vijay (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74615
-#EXTINF:-1,Sun TV (IN) group-title="Entertainment"
+#EXTINF:-1 group-title="Entertainment",Sun TV (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74612
-#EXTINF:-1,Sun TV HD (IN) group-title="Entertainment"
+#EXTINF:-1 group-title="Entertainment",Sun TV HD (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74611
-#EXTINF:-1,Zee Tamil (IN) group-title="Entertainment"
+#EXTINF:-1 group-title="Entertainment",Zee Tamil (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74507
-#EXTINF:-1,Movies Now 2 (IN) group-title="Movies"
+#EXTINF:-1 group-title="Movies",Movies Now 2 (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74714
-#EXTINF:-1,Movies Now 2 HD (IN) group-title="Movies"
+#EXTINF:-1 group-title="Movies",Movies Now 2 HD (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74713
-#EXTINF:-1,Sony Pix HD (IN) group-title="Movies"
+#EXTINF:-1 group-title="Movies",Sony Pix HD (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74626
-#EXTINF:-1,Movies Now HD (IN)
-#EXTINF:-1,Jaya Max (IN) group-title="Entertainment"
+#EXTINF:-1 group-title="Movies",WB (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74521
+#EXTINF:-1 group-title="Movies",Movies Now HD (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74715
+#EXTINF:-1 group-title="Entertainment",Jaya Max (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74767
-#EXTINF:-1,Jaya Plus (IN) group-title="Entertainment"
+#EXTINF:-1 group-title="Entertainment",Jaya Plus (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74766
-#EXTINF:-1,Jaya TV HD (IN) group-title="Entertainment"
+#EXTINF:-1 group-title="Entertainment",Jaya TV HD (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74765
-#EXTINF:-1,Pogo Tamil (IN) group-title="Kids"
+#EXTINF:-1 group-title="Kids",Pogo Tamil (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74670
-#EXTINF:-1,Polimer News (IN) group-title="News"
+#EXTINF:-1 group-title="News",Polimer News (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74665
-#EXTINF:-1,Polimer TV (IN) group-title="News"
+#EXTINF:-1 group-title="News",Polimer TV (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74664
-#EXTINF:-1,Puthiya Thalimurai (IN) group-title="News"
+#EXTINF:-1 group-title="News",Puthiya Thalimurai (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74657
-#EXTINF:-1,Puthu Yugam (IN) group-title="News"
+#EXTINF:-1 group-title="News",Puthu Yugam (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74667
-#EXTINF:-1,Nick Tamil (IN) group-title="Kids"
+#EXTINF:-1 group-title="Kids",Nick Tamil (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74689
-#EXTINF:-1,MK Music (IN) group-title="Music"
+#EXTINF:-1 group-title="Music",MK Music (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74719
-#EXTINF:-1,MK News (IN) group-title="News"
+#EXTINF:-1 group-title="News",MK News (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74718
-#EXTINF:-1,MK TV (IN) group-title="Entertainment"
+#EXTINF:-1 group-title="Entertainment",MK TV (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74717
-#EXTINF:-1,Lotus News (IN) group-title="News"
+#EXTINF:-1 group-title="News",Lotus News (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74730
-#EXTINF:-1,Malai Murasu (IN) group-title="News"
+#EXTINF:-1 group-title="News",Malai Murasu (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74724
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="Movies",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
@@ -217,36 +220,34 @@ http://espn.clinicalkey.icu/cache/espnu.m3u8?fluxustv.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",РORTAL FOXMIX TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-#EXTINF:-1,Jio Events (IN)
+#EXTINF:-1 group-title="Sports",Jio Events (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74763
-#EXTINF:-1,Jio Exclusive (IN)
+#EXTINF:-1 group-title="Sports",Jio Exclusive (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74762
-#EXTINF:-1,Jio Football (IN)
+#EXTINF:-1 group-title="Sports",Jio Football (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74761
-#EXTINF:-1,Jio Football 1 (IN)
+#EXTINF:-1 group-title="Sports",Jio Football 1 (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74760
-#EXTINF:-1,Jio Football 2 (IN)
+#EXTINF:-1 group-title="Sports",Jio Football 2 (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74759
-#EXTINF:-1,Jio Football 3 (IN)
+#EXTINF:-1 group-title="Sports",Jio Football 3 (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74758
-#EXTINF:-1,Jio Football 4 (IN)
+#EXTINF:-1 group-title="Sports",Jio Football 4 (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74757
-#EXTINF:-1,Sony ESPN HD (IN)
+#EXTINF:-1 group-title="Sports",Sony ESPN HD (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74629
-#EXTINF:-1,Ten 1 (IN) group-title="Sports"
+#EXTINF:-1 group-title="Sports",Ten 1 (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74575
-#EXTINF:-1,Ten 2 (IN) group-title="Sports"
+#EXTINF:-1 group-title="Sports",Ten 2 (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74574
-#EXTINF:-1 Ten 3 (IN) group-title="Sports"
+#EXTINF:-1 group-title="Sports", Ten 3 (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74573
-#EXTINF:-1,Thanthi TV (IN) group-title="News"
+#EXTINF:-1 group-title="News",Thanthi TV (IN) group-title="News"
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74571
-#EXTINF:-1,Times NOW (IN) group-title="News"
+#EXTINF:-1 group-title="News",Times NOW (IN) group-title="News"
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74570
 #EXTINF:-1,Zee Business (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74515
-#EXTINF:-1,WB (IN)
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74521
 #EXTINF:-1,Win TV (IN)
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74520
 #EXTINF:-1,Wion (IN)
