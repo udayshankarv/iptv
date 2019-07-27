@@ -1,4 +1,53 @@
 #EXTM3U
+#EXTINF:-1,KTV HD (IN) group-title="Movies"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74744
+#EXTINF:-1,J Movies (IN) group-title="Movies"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74771
+#EXTINF:-1,Sun Music HD (IN) group-title="Music"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74613
+#EXTINF:-1,Star Vijay (IN) group-title="Entertainment"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74615
+#EXTINF:-1,Sun TV (IN) group-title="Entertainment"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74612
+#EXTINF:-1,Sun TV HD (IN) group-title="Entertainment"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74611
+#EXTINF:-1,Zee Tamil (IN) group-title="Entertainment"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74507
+#EXTINF:-1,Movies Now 2 (IN) group-title="Movies"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74714
+#EXTINF:-1,Movies Now 2 HD (IN) group-title="Movies"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74713
+#EXTINF:-1,Sony Pix HD (IN) group-title="Movies"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74626
+#EXTINF:-1,Movies Now HD (IN)
+#EXTINF:-1,Jaya Max (IN) group-title="Entertainment"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74767
+#EXTINF:-1,Jaya Plus (IN) group-title="Entertainment"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74766
+#EXTINF:-1,Jaya TV HD (IN) group-title="Entertainment"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74765
+#EXTINF:-1,Pogo Tamil (IN) group-title="Kids"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74670
+#EXTINF:-1,Polimer News (IN) group-title="News"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74665
+#EXTINF:-1,Polimer TV (IN) group-title="News"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74664
+#EXTINF:-1,Puthiya Thalimurai (IN) group-title="News"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74657
+#EXTINF:-1,Puthu Yugam (IN) group-title="News"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74667
+#EXTINF:-1,Nick Tamil (IN) group-title="Kids"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74689
+#EXTINF:-1,MK Music (IN) group-title="Music"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74719
+#EXTINF:-1,MK News (IN) group-title="News"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74718
+#EXTINF:-1,MK TV (IN) group-title="Entertainment"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74717
+#EXTINF:-1,Lotus News (IN) group-title="News"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74730
+#EXTINF:-1,Malai Murasu (IN) group-title="News"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74724
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="Movies",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movies",Star Movies (Opt-1)
@@ -59,7 +108,7 @@ http://askmedia.livebox.co.in/DANNewshls/dannews.m3u8
 http://askmedia.livebox.co.in/TamilOlihls/tamiloli.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="Movies",KTV Tamil Movie Classic
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://saalaitv.com/logo/IBCPAKIDI.png" group-title="",IBC Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://saalaitv.com/logo/IBCPAKIDI.png" group-title="Entertainment",IBC Kids
 https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tamil.de/wp-content/uploads/2018/01/Bildschirmfoto-2018-01-28-um-12.33.09.png" group-title="News",Tamil Business
 http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/index.m3u8
@@ -168,6 +217,70 @@ http://espn.clinicalkey.icu/cache/espnu.m3u8?fluxustv.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",РORTAL FOXMIX TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1,Jio Events (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74763
+#EXTINF:-1,Jio Exclusive (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74762
+#EXTINF:-1,Jio Football (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74761
+#EXTINF:-1,Jio Football 1 (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74760
+#EXTINF:-1,Jio Football 2 (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74759
+#EXTINF:-1,Jio Football 3 (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74758
+#EXTINF:-1,Jio Football 4 (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74757
+#EXTINF:-1,Sony ESPN HD (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74629
+#EXTINF:-1,Ten 1 (IN) group-title="Sports"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74575
+#EXTINF:-1,Ten 2 (IN) group-title="Sports"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74574
+#EXTINF:-1 Ten 3 (IN) group-title="Sports"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74573
+#EXTINF:-1,Thanthi TV (IN) group-title="News"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74571
+#EXTINF:-1,Times NOW (IN) group-title="News"
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74570
+#EXTINF:-1,Zee Business (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74515
+#EXTINF:-1,WB (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74521
+#EXTINF:-1,Win TV (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74520
+#EXTINF:-1,Wion (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74519
+#EXTINF:-1,Zee Cinemalu (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74514
+#EXTINF:-1,Travel XP (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74566
+#EXTINF:-1,Travel XP HD (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74565
+#EXTINF:-1,Travel XP Tamil (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74555
+#EXTINF:-1,Zee Talkies (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74508
+#EXTINF:-1,Zee Kalinga (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74513
+#EXTINF:-1,Zee Kannada (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74512
+#EXTINF:-1,Zee Magic (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74504
+#EXTINF:-1,Zee News MP Chattisgarh (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74511
+#EXTINF:-1,Zee Purvaiya (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74510
+#EXTINF:-1,Zee SANGAM (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74509
+#EXTINF:-1,Zee Telugu (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74506
+#EXTINF:-1,ZEE World (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74517
+#EXTINF:-1,Zee Yuva (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74505
+#EXTINF:-1,Zing (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74503
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",AMERICAN HORRORS [288p]
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="Kids",Cartoon Network (LA)
@@ -206,7 +319,11 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 https://live2.hoolatv.com/live/bbcone_hi/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="News",BBC Two
 https://live2.hoolatv.com/live/bbctwo_hi/chunks.m3u8
-
+#EXTINF:-1,Sonic Tamil (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74633
+#EXTINF:-1,Sony BBC Earth HD (IN)
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74632
+#EXTINF:-1,Sony BBC Earth HD Tamil (IN)
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Infotainment",Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Aljazeera News
