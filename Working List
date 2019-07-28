@@ -1,0 +1,48 @@
+#MN+
+http://212.8.253.141:7071/uk2019/mnplushd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDI6NTg6MjQgUE0maGFzaF92YWx1ZT1VZ3cwa3hTSDVFN3UrSE9LSzJNLzlnPT0mdmFsaWRtaW51dGVzPTI=
+#MNXHD
+http://212.8.253.141:7071/uk2019/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6MDM6MzUgUE0maGFzaF92YWx1ZT1GRW1FN1NwNEF6YmxXQXJlT2NnS293PT0mdmFsaWRtaW51dGVzPTI=
+#MNHD
+http://212.8.253.141:7071/uk2019/moviesnowhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6MDU6MDAgUE0maGFzaF92YWx1ZT0rQkNwVjBoWE5wUmw3akFKaFAwS05nPT0mdmFsaWRtaW51dGVzPTI=
+#ZeeTamil
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225942/06.m3u8
+# Vijay TV HD
+http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_1200.m3u8
+#Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#Akaram TV
+http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
+#Akaram Galatta
+http://akaram.zecast.net/akaram-live/akaramgalatta1/playlist.m3u8
+#Peppers
+http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/mono.m3u8
+#Kalaignar 
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226091/04.m3u8
+#Polimer
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226103/02.m3u8
+#Jaya TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226092/04.m3u8
+#Jaya Movies
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226095/04.m3u8
+#Jaya Max
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226101/04.m3u8
+#Palar TV
+http://209.58.178.82/palartvhls/live.m3u8
+#Boss TV
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/playlist.m3u8
+# Akaram Mix
+http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
+#AMC (US)
+http://46.166.150.155:2546/usa2019/amcusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDE6NDMgUE0maGFzaF92YWx1ZT1Fb2hWV1N6TzBOMEMrNVZKOWRQeSt3PT0mdmFsaWRtaW51dGVzPTI=
+#Fox (US)
+http://46.166.150.155:2546/usa2019/foxus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDM6MDggUE0maGFzaF92YWx1ZT1VL3F6bWlHbDFiTXVhV09tRU5VRU5BPT0mdmFsaWRtaW51dGVzPTI=
+#FXX (US)
+http://46.166.150.155:2546/usa2019/fxxus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDQ6MTQgUE0maGFzaF92YWx1ZT1JMEhtWUV1alVlT3FuQjBZOTA1TVJRPT0mdmFsaWRtaW51dGVzPTI=
+#Hallmark (US)
+http://46.166.150.155:2546/usa2019/hallmarkus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDU6MDQgUE0maGFzaF92YWx1ZT1zM3JicHpuZHBhcDVMT1NrZjliK1hBPT0mdmFsaWRtaW51dGVzPTI=
+#HBO (US)
+http://46.166.150.155:2546/usa2019/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDY6MzggUE0maGFzaF92YWx1ZT03M09KU29qR1owR3lGdTlJUldBNWxRPT0mdmFsaWRtaW51dGVzPTI=
+#HBO Comedy (US)
+http://46.166.150.155:2546/usa2019/hbocomedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDc6MTYgUE0maGFzaF92YWx1ZT1ORSsxVnlNbGwxMDZhdEZ4S2htbll3PT0mdmFsaWRtaW51dGVzPTI=
+#HBO Signature
+http://46.166.150.155:2546/usa2019/hbosingnature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDc6NDIgUE0maGFzaF92YWx1ZT14aWo0cFI2RmtQQTlDb0lnWU13KzdRPT0mdmFsaWRtaW51dGVzPTI=
