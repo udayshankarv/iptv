@@ -46,3 +46,15 @@ http://46.166.150.155:2546/usa2019/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 http://46.166.150.155:2546/usa2019/hbocomedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDc6MTYgUE0maGFzaF92YWx1ZT1ORSsxVnlNbGwxMDZhdEZ4S2htbll3PT0mdmFsaWRtaW51dGVzPTI=
 #HBO Signature
 http://46.166.150.155:2546/usa2019/hbosingnature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NDc6NDIgUE0maGFzaF92YWx1ZT14aWo0cFI2RmtQQTlDb0lnWU13KzdRPT0mdmFsaWRtaW51dGVzPTI=
+#starz
+http://46.166.150.155:2546/usa2019/starz/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NTA6MDUgUE0maGFzaF92YWx1ZT1YTDV6bjNpdVN2R1JyM2xCUnVhcjhnPT0mdmFsaWRtaW51dGVzPTI=
+#starz edge
+http://46.166.150.155:2546/usa2019/starzedge/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NTA6MzYgUE0maGFzaF92YWx1ZT1teU5pYVRxZFZrMUNiL25uVys3dWRRPT0mdmFsaWRtaW51dGVzPTI=
+#starz comedy
+http://46.166.150.155:2546/usa2019/starzcomedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NTE6MTYgUE0maGFzaF92YWx1ZT1XanZ2YmsvdUFYWGh0R0JIdG9YSUp3PT0mdmFsaWRtaW51dGVzPTI=
+#tntus
+http://46.166.150.155:2546/usa2019/tntus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NTE6MzUgUE0maGFzaF92YWx1ZT1uRlQ0SjBCZ1pXK244eGJZNnhWTDNRPT0mdmFsaWRtaW51dGVzPTI=
+#HBO Zone
+http://46.166.150.155:2546/usa2019/hbozone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDM6NTE6NTggUE0maGFzaF92YWx1ZT1VZDB4YUUyeDNRdkRYcEJMWDFQTEJ3PT0mdmFsaWRtaW51dGVzPTI=
+#&Prive HD
+http://139.59.68.238/stm-v3/api/def2.php?id=467&quality=1&type=0
