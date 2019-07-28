@@ -59,4 +59,6 @@ http://46.166.150.155:2546/usa2019/hbozone/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 #&Prive HD
 http://139.59.68.238/stm-v3/api/def2.php?id=467&quality=1&type=0
 #Zee Bioskop
-http://139.59.68.238/stm-v3/api/def2.php?id=1298&quality=0&type=0
+http://139.59.68.238/stm-v3/api/def2.php?id=1298&quality=0&type=0#WB
+#WB
+http://212.8.253.141:7071/uk2019/warnerbros/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDQ6MTk6MzMgUE0maGFzaF92YWx1ZT14aDUwOTJDQjhMOGk3aksyYjBueEpBPT0mdmFsaWRtaW51dGVzPTI=
