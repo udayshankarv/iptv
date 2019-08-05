@@ -7,6 +7,8 @@ http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74612
 http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 #EXTINF:-1  group-title="Entertainment",Star Vijay (IN)
 http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Entertainment",Star Vijay (Opt 3)
+http://54.39.124.28/pro.php/http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://en.wikipedia.org/wiki/Raj_TV#/media/File:Raj_TV_Tamil.png",Raj (IN)
 http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Polimer TV (IN)
@@ -188,12 +190,46 @@ http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34441
 http://mhms11.airtel.tv/wh7f454c46tw589117922_1611517725/PLTV/88888888/224/3221226577/index.m3u8
 #EXTINF:-1 group-title="Movies",Maa Movies HD (IN)
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34438
+#EXTINF:-1 group-title="Movies",HBO Zone (US)
+http://46.166.150.155:2546/usa2019/hbozone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozNjowOCBQTSZoYXNoX3ZhbHVlPWRWU0xQcHBjVUtnbTFLWlVZYXVQQWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",HBO Signature (US)
+http://46.166.150.155:2546/usa2019/hbosingnature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozNjo0NSBQTSZoYXNoX3ZhbHVlPTF5Q3FORFl6ZEJXSVVQUnNlSFkvVFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",AMC(US)
+http://46.166.150.155:2546/usa2019/amcusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozNzo1MyBQTSZoYXNoX3ZhbHVlPUNJUXIvNU5YSStmd2NscEdBYUFWMHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",Fox (US)
+http://46.166.150.155:2546/usa2019/foxus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozMDo1NSBQTSZoYXNoX3ZhbHVlPVkvQVBqK20wZ25FRHV6N0FsVmdWeHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",TNT (US)
+http://46.166.150.155:2546/usa2019/tntus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozMzoyMyBQTSZoYXNoX3ZhbHVlPTdSeVFkU3lUNGwwZGxuSE9pSS9vYnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",Starz (US)
+http://46.166.150.155:2546/usa2019/starz/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozNTozNiBQTSZoYXNoX3ZhbHVlPVdGUmVvM0pIa3ZiZU5SS2JyMVJHSHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",Starz Edge (US)
+http://46.166.150.155:2546/usa2019/starzedge/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozNDoxOSBQTSZoYXNoX3ZhbHVlPXMreTlKQ3kyU1d6bDhLdGZkNjRiRFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",Film 4 (UK)
+http://212.8.253.141:7071/uk2019/FILM4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozODozOSBQTSZoYXNoX3ZhbHVlPXFDbnNHVmFkN0R2UzdPVG1QQkxBb3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",Sky Cinema Action (UK)
+http://212.8.253.141:7071/uk2019/SkyMoviesCrime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozOTo0OSBQTSZoYXNoX3ZhbHVlPTBSSisxS2MxcE5BazZIT2xMSjg0RVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",Sky Cinema Comedy (UK)
+http://212.8.253.141:7071/uk2019/SkyComedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0MDozMyBQTSZoYXNoX3ZhbHVlPUs0MkZ0RWNhSFZPSnVNSUFZdnV0cnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",Sky Cinema Greats (UK)
+http://212.8.253.141:7071/uk2019/SkyMoviesGreats/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0MTozMyBQTSZoYXNoX3ZhbHVlPWZsdGFpcGpORU1kdXFobzFVYkFjZ3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",Sky Cinema Premiere (UK)
+http://212.8.253.141:7071/uk2019/SkyMoviesPremiere/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0MjowNCBQTSZoYXNoX3ZhbHVlPVVPdE5xZ0F3Z2IwdFhlL1lpdWhDWUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",Sky Cinema SciFiHorror (UK)
+http://212.8.253.141:7071/uk2019/SkyMoviesSciFiHorror/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0Mjo0MCBQTSZoYXNoX3ZhbHVlPVZ6eXBiM09yank4Q1lZM2lqanpsUnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",Universal Channel (UK)
+http://212.8.253.141:7071/uk2019/universal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0MzoyNiBQTSZoYXNoX3ZhbHVlPWZ1SjQwL3p0WGp2Q21NUEMzeFJXQWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",True Movies (UK)
+http://212.8.253.141:7071/uk2019/TrueMovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0NDowOSBQTSZoYXNoX3ZhbHVlPVhKUVRwYlU3M1JpZHAwV3NBdWxiVXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",True Movies2 (UK)
+http://212.8.253.141:7071/uk2019/TrueMovies2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0NDozOSBQTSZoYXNoX3ZhbHVlPWNMbHNwdjVuYlFQNXFSVE5sNGx1U1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies",WB
+http://212.8.253.141:7071/uk2019/warnerbros/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo1MDo1MiBQTSZoYXNoX3ZhbHVlPVllL0VKNXhvbnE0Nk12TjkzMU5NVlE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 group-title="Movies",Movies Now HD
 http://212.8.253.141:7071/uk2019/moviesnowhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTkgMjo0Mzo1MyBQTSZoYXNoX3ZhbHVlPS9lakM4TldFOWRLeHl3VENyRHdyTGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 group-title="Movies",Movies Now +
-http://212.8.253.141:7071/uk2019/mnplushd/chunks.m3u8?nimblesessionid=260590183&wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTkgMjo0MTo1MyBQTSZoYXNoX3ZhbHVlPUZjdkNKc3ZJK24vVWVpZGkxcyt3SEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://212.8.253.141:7071/uk2019/mnplushd/chunks.m3u8?nimblesessionid=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0Mjo0MCBQTSZoYXNoX3ZhbHVlPVZ6eXBiM09yank4Q1lZM2lqanpsUnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 group-title="Movies",MNX HD
-http://212.8.253.141:7071/uk2019/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTkgMjo0Mjo0NSBQTSZoYXNoX3ZhbHVlPWFRV0FzQUt4OHVQd1M2MitTVjF1V1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://212.8.253.141:7071/uk2019/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0ODoxNCBQTSZoYXNoX3ZhbHVlPXJiVHA4SktRSVFnTzIrcG9ndjFaU0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 group-title="Movies" ,Sky Action Movies
 http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTkgMzo0NDoyMiBQTSZoYXNoX3ZhbHVlPVBEV3o1ZUtVSnN0aThNSzU5ZmhnelE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="Movies",STAR MOVIES
@@ -202,8 +238,10 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movies",Star Movies (Opt-2)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Entertainment",Star Vijay
-http://54.39.124.28/pro.php/http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Show Time
+http://46.166.150.155:2546/usa2019/showtimeus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDoyNDoxOCBQTSZoYXNoX3ZhbHVlPU1kQmRpYmdIMUI1Nk15dzNjMWxZK3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Hallmark Channel
+http://46.166.150.155:2546/usa2019/hallmarkus/l_17995_2436849_402.ts?nimblesessionid=209035&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDoyOTo1NCBQTSZoYXNoX3ZhbHVlPW1GMVFnbGZ2ZDBxbEpwVW9Kc3ZrSFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="Movies",HBO (LA)
 http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",HBO (Opt-1)
