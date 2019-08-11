@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg",Sun TV HD (IN)
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34454
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/Sun_TV_logo.svg.png",Sun TV (IN)
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74612
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74611
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg",Sun TV HD (IN)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74612
+
 #EXTINF:-1  group-title="Entertainment",Star Vijay (FHD)
 http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 #EXTINF:-1  group-title="Entertainment",Star Vijay (IN)
+
 http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Entertainment",Star Vijay (Opt 3)
 http://54.39.124.28/pro.php/http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
@@ -16,13 +18,13 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226103/02.m3u8
 #EXTINF:-1 group-title="Entertainment",Polimer TV (Opt-1)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/index.m3u8
 #EXTINF:-1 group-title="Comedy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_adithya.jpg",Adithya
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34482
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74930
 #EXTINF:-1  group-title="Comedy",Sirippoli (IN)
 http://mhms9.airtel.tv/wh7f454c46tw4009079748_746603253/PLTV/88888888/224/3221226221/04.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/jaya_tv.jpg",Jaya TV HD (IN)
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226092/02.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/jaya_tv.jpg",Jaya TV HD (Opt 2)
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34472
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74765
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="Entertainment",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="Entertainment",Kalaignar (Opt 2)
@@ -30,15 +32,13 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226091/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="Entertainment",Kalaignar (Opt 3)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226091/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/colors_in.jpg",Colours Tamil HD
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34478
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74890
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Logo_of_Zee_Tamil_2015.jpg",Zee Tamil (IN)
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225929/04.m3u8http://jkzqgw3zrm9o-hls-live.wmncdn.net/969/vaanaviltv/live.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Logo_of_Zee_Tamil_2015.jpg",Zee Tamil HD(IN)
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34447
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Logo_of_Zee_Tamil_2015.jpg",Zee Tamil HD (Opt2)
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34448
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74507
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/Vendhar_TV#/media/File:Logo_of_Vendhar_TV.jpg" group-title="Entertainment",Vendhar TV
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34451
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74542
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/Vendhar_TV#/media/File:Logo_of_Vendhar_TV.jpg" group-title="Entertainment",Vendhar TV (Opt 2)
 http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
 #EXTINF:-1 group-title="Entertainment" ,Makkal (IN)
@@ -65,6 +65,10 @@ http://8ovgdk34qmpw-hls-live.wmncdn.net/307/tamilan/live.stream/tracks-v1a1/inde
 http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wWIknEr.jpg" group-title="Entertainment",Akaram Gallata TV
 http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:-1 group-title="Kids",Chutti TV (IN)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74901
+#EXTINF:-1 group-title="Kids",Discovery Kids Tamil (IN)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74842
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="http://saalaitv.com/logo/Akaramgalatta.PNG" group-title="Entertainment",Akaram Kidz (Opt-1)
 http://akaram.zecast.net/akaram-live/akaramgalatta1/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="Kids",Akaram Kidz (Opt-2)
@@ -145,8 +149,10 @@ http://askmedia.livebox.co.in/DANNewshls/dannews.m3u8
 http://askmedia.livebox.co.in/TamilOlihls/tamiloli.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="Movies",KTV Tamil Movie Classic
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="http://saalaitv.com/logo/IBCPAKIDI.png" group-title="Entertainment",IBC Kids
+#EXTINF:-1 group-title="Kids" tvg-id="" tvg-name="" tvg-logo="http://saalaitv.com/logo/IBCPAKIDI.png" group-title="Entertainment",IBC Kids
 https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
+#EXTINF:-1 group-title="Kids",Pogo Tamil (IN)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74670
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://www.tamil.de/wp-content/uploads/2018/01/Bildschirmfoto-2018-01-28-um-12.33.09.png" group-title="News",Tamil Business
 http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Dwfiylo.png" group-title="News",Tamil Business TV (DE)
@@ -154,82 +160,45 @@ http://rtmp.santhoratv.zecast.net/tamilbusinesstv//tamilbusinesstv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/03/Screenshot_1.png" group-title="Music",Tamil MTV
 http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/chunklist.m3u8
 #EXTINF:-1  group-title="News" tvg-logo="http://www.cauverynews.tv/sites/all/themes/mxblog/logo.png",Cauvery News
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34461
-#EXTINF:-1  group-title="News" tvg-logo="http://www.cauverynews.tv/sites/all/themes/mxblog/logo.png",Cauvery News (Opt 2)
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34461
-https://www.youtube.com/watch?v=66ETWmXl0r8
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74903
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.satlogo.com/hires/cc/captain_news_in.png" group-title="",Captain News
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34480
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.satlogo.com/hires/cc/captain_news_in.png" group-title="",Captain News(Opt 2)
-https://www.youtube.com/watch?v=PWTWz8lCZyc
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74886
 #EXTINF:-1 group-title="News" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/puthiya_thalaimurai.jpg",Puthiya Thalimurai
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34462
-#EXTINF:-1 group-title="News" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/puthiya_thalaimurai.jpg",Raj News
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74657
+#EXTINF:-1 group-title="News" tvg-logo="",Raj News
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34464
 #EXTINF:-1 group-title="News" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/news_18_india.jpg",News 18 
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34467
-#EXTINF:-1 group-title="News" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/news_18_india.jpg",News 18 (YT)
-https://www.youtube.com/watch?v=H67DHs3LyoA
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74681
 #EXTINF:-1 group-title="News" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lotus_news_in.jpg",Lotus News
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34479
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74730
+
 #EXTINF:-1 group-title="Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_kondattam_tv.jpg",KTV HD 
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34471
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74744
 #EXTINF:-1 group-title="Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_life.jpg",Sun Life
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34457
 #EXTINF:-1  group-title="Movies" tvg-logo="https://3.bp.blogspot.com/-rBQ_ct0PGQA/VjChr6jCf-I/AAAAAAAAAGI/objhO5bYdYA/s1600/jaya-movies-yupptv.in.png",J Movies (IN)
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226095/04.m3u8
 #EXTINF:-1  group-title="Movies" tvg-logo="https://3.bp.blogspot.com/-rBQ_ct0PGQA/VjChr6jCf-I/AAAAAAAAAGI/objhO5bYdYA/s1600/jaya-movies-yupptv.in.png",J Movies Opt 2
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226095/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="",Tohar TV
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34498
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png",Vijay Super (IN) 
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34480
 #EXTINF:-1 group-title="Movies",Gemini Movies HD(IN)
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34441
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74808
 #EXTINF:-1 group-title="Movies",Gemini Movies HD(Opt 2)
 http://mhms11.airtel.tv/wh7f454c46tw589117922_1611517725/PLTV/88888888/224/3221226577/index.m3u8
-#EXTINF:-1 group-title="Movies",Maa Movies HD (IN)
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34438
-#EXTINF:-1 group-title="Movies",HBO Zone (US)
-http://46.166.150.155:2546/usa2019/hbozone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozNjowOCBQTSZoYXNoX3ZhbHVlPWRWU0xQcHBjVUtnbTFLWlVZYXVQQWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",HBO Signature (US)
-http://46.166.150.155:2546/usa2019/hbosingnature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozNjo0NSBQTSZoYXNoX3ZhbHVlPTF5Q3FORFl6ZEJXSVVQUnNlSFkvVFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",AMC(US)
-http://46.166.150.155:2546/usa2019/amcusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozNzo1MyBQTSZoYXNoX3ZhbHVlPUNJUXIvNU5YSStmd2NscEdBYUFWMHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Fox (US)
-http://46.166.150.155:2546/usa2019/foxus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozMDo1NSBQTSZoYXNoX3ZhbHVlPVkvQVBqK20wZ25FRHV6N0FsVmdWeHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",TNT (US)
-http://46.166.150.155:2546/usa2019/tntus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozMzoyMyBQTSZoYXNoX3ZhbHVlPTdSeVFkU3lUNGwwZGxuSE9pSS9vYnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Starz (US)
-http://46.166.150.155:2546/usa2019/starz/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozNTozNiBQTSZoYXNoX3ZhbHVlPVdGUmVvM0pIa3ZiZU5SS2JyMVJHSHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Starz Edge (US)
-http://46.166.150.155:2546/usa2019/starzedge/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozNDoxOSBQTSZoYXNoX3ZhbHVlPXMreTlKQ3kyU1d6bDhLdGZkNjRiRFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Film 4 (UK)
-http://212.8.253.141:7071/uk2019/FILM4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozODozOSBQTSZoYXNoX3ZhbHVlPXFDbnNHVmFkN0R2UzdPVG1QQkxBb3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Sky Cinema Action (UK)
-http://212.8.253.141:7071/uk2019/SkyMoviesCrime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDozOTo0OSBQTSZoYXNoX3ZhbHVlPTBSSisxS2MxcE5BazZIT2xMSjg0RVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Sky Cinema Comedy (UK)
-http://212.8.253.141:7071/uk2019/SkyComedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0MDozMyBQTSZoYXNoX3ZhbHVlPUs0MkZ0RWNhSFZPSnVNSUFZdnV0cnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Sky Cinema Greats (UK)
-http://212.8.253.141:7071/uk2019/SkyMoviesGreats/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0MTozMyBQTSZoYXNoX3ZhbHVlPWZsdGFpcGpORU1kdXFobzFVYkFjZ3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Sky Cinema Premiere (UK)
-http://212.8.253.141:7071/uk2019/SkyMoviesPremiere/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0MjowNCBQTSZoYXNoX3ZhbHVlPVVPdE5xZ0F3Z2IwdFhlL1lpdWhDWUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Sky Cinema SciFiHorror (UK)
-http://212.8.253.141:7071/uk2019/SkyMoviesSciFiHorror/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0Mjo0MCBQTSZoYXNoX3ZhbHVlPVZ6eXBiM09yank4Q1lZM2lqanpsUnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Universal Channel (UK)
-http://212.8.253.141:7071/uk2019/universal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0MzoyNiBQTSZoYXNoX3ZhbHVlPWZ1SjQwL3p0WGp2Q21NUEMzeFJXQWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",True Movies (UK)
-http://212.8.253.141:7071/uk2019/TrueMovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0NDowOSBQTSZoYXNoX3ZhbHVlPVhKUVRwYlU3M1JpZHAwV3NBdWxiVXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",True Movies2 (UK)
-http://212.8.253.141:7071/uk2019/TrueMovies2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0NDozOSBQTSZoYXNoX3ZhbHVlPWNMbHNwdjVuYlFQNXFSVE5sNGx1U1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",WB
-http://212.8.253.141:7071/uk2019/warnerbros/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo1MDo1MiBQTSZoYXNoX3ZhbHVlPVllL0VKNXhvbnE0Nk12TjkzMU5NVlE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Movies Now HD
-http://212.8.253.141:7071/uk2019/moviesnowhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTkgMjo0Mzo1MyBQTSZoYXNoX3ZhbHVlPS9lakM4TldFOWRLeHl3VENyRHdyTGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",Movies Now +
-http://212.8.253.141:7071/uk2019/mnplushd/chunks.m3u8?nimblesessionid=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0Mjo0MCBQTSZoYXNoX3ZhbHVlPVZ6eXBiM09yank4Q1lZM2lqanpsUnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 group-title="Movies",MNX HD
-http://212.8.253.141:7071/uk2019/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMTkgNDo0ODoxNCBQTSZoYXNoX3ZhbHVlPXJiVHA4SktRSVFnTzIrcG9ndjFaU0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1 group-title="Movies",HBO HD (IN)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74797
+#EXTINF:-1 group-title="Movies",AND Prive HD (IN)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74945
+#EXTINF:-1 group-title="Movies",Movies Now 2 (IN)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74714
+#EXTINF:-1 group-title="Movies",Movies Now HD (IN)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74715
+#EXTINF:-1 group-title="Movies",Sony Pix HD (IN)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74626
+#EXTINF:-1 group-title="Movies",WB (IN)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74521
 #EXTINF:-1 group-title="Movies" ,Sky Action Movies
 http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTkgMzo0NDoyMiBQTSZoYXNoX3ZhbHVlPVBEV3o1ZUtVSnN0aThNSzU5ZmhnelE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="Movies",STAR MOVIES
@@ -272,26 +241,96 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
+#EXTINF:-1,HBO 1 HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/26321
+#EXTINF:-1,HBO 2 HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/26322
+#EXTINF:-1,HBO EAST HD - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/371
+#EXTINF:-1,HBO COMEDY HD - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/373
+#EXTINF:-1,HBO FAMILY HD - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/4829
+#EXTINF:-1,HBO SIGNATURE HD - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/372
+#EXTINF:-1,HBO ZONE HD - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/4828
+#EXTINF:-1,CINEMAX EAST HD - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/380
+#EXTINF:-1,ACTION MAX HD - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/383
+#EXTINF:-1,MOREMAX HD - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/381
+#EXTINF:-1,5STAR MAX HD - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/382
+#EXTINF:-1,MOVIE MAX HD - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/384
+#EXTINF:-1,THRILLER MAX HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/80332
+#EXTINF:-1,SHOWTIME EAST HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/11361
+#EXTINF:-1,SHOWTIME 3 HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/11362
+#EXTINF:-1,SHOWTIME BEYOND HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/11363
+#EXTINF:-1,SHOWTIME WOMEN HD (NEW)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/11359
+#EXTINF:-1,SHOWTIME EXTREME HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/11358
+#EXTINF:-1,SHOWTIME NEXT HD (NEW)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/11360
+#EXTINF:-1,FLIX - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/59056
+#EXTINF:-1,SUPER CHANNEL FUSE - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/71289
+#EXTINF:-1,VAULT (CDN) - NEW
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/67114
+#EXTINF:-1,STARZ HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/374
+#EXTINF:-1,STARZ EDGE HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/377
+#EXTINF:-1,STARZ COMEDY HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/376
+#EXTINF:-1,STARZ BLACK HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/378
+#EXTINF:-1,SKY MOVIES ACTION & ADVENTURE
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/1738
+#EXTINF:-1,SKY MOVIES COMEDY
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/1737
+#EXTINF:-1,SKY MOVIES PREMIERE
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/1733
+#EXTINF:-1,SKY MOVIES FAMILY
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/1736
+#EXTINF:-1,SKY MOVIES DRAMA & ROMANCE
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/1779
+#EXTINF:-1,SKY MOVIES THRILLER
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/1742
+#EXTINF:-1,ANIMAL PLANET HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/332
+
 #EXTINF:-1 group-title="Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/raj_musix.jpg",Raj Musix
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34465
 #EXTINF:-1 group-title="Music" tvg-logo="https://kccl.tv/sites/default/files/mk%20tunes.jpg",MK Tunes
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34473
 #EXTINF:-1 group-title="Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_music.jpg",Sun Music
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34456
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74613
 #EXTINF:-1 group-title="Music",Jaya Max (IN)
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226101/02.m3u8
 #EXTINF:-1 group-title="Music",Jaya Max (Opt 2)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226101/index.m3u8
 #EXTINF:-1 group-title="Music",Peppers (IN)
 http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Music",Peppers Opt2(IN)
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74673
 #EXTINF:-1 group-title="Music",9XO
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="http://athavantv.com/wp-content/themes/athavantv_new/images/athavan-music-hd.png" group-title="Entertainment",Aathavan Music
 http://81.24.198.44/A-MI/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_in_hd.jpg",Nat Geo HD
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34468
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/330
 #EXTINF:-1 group-title="Infotainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_asia.jpg",Nat Geo Wild HD
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34469
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/331
 #EXTINF:-1 group-title="Infotainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_tv18_hd.jpg",History TV HD
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34473
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/FOX-LIFE-HD.png",Fox Life HD
@@ -304,12 +343,28 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="",NDTV Good Times
 http://mhms10.airtel.tv/wh7f454c46tw3533208_1873284149/PLTV/88888888/224/3221226541/index.m3u8
+#EXTINF:-1 group-title="Sports" ,WILLOW CRICKET HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/198
+#EXTINF:-1 group-title="Sports" ,WILLOW XTRA HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/9630
+#EXTINF:-1 group-title="Sports" ,STAR SPORTS HD ENGLISH
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/199
+#EXTINF:-1 group-title="Sports" ,STAR SPORTS SELECT 2
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/200
+#EXTINF:-1 group-title="Sports" ,STAR SPORTS HINDI
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/201
+#EXTINF:-1 group-title="Sports" ,STAR SPORTS 2 HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/202
+#EXTINF:-1 group-title="Sports" ,NEO PRIME
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/4649
+#EXTINF:-1 group-title="Sports" ,TEN 3
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/4195
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png",Willow HD
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34483
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png",Sony Ten 1 HD
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34486
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/4193
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png",Sony Ten 2 HD
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34485
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/4194
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_six_in.jpg",Sony Six HD
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34494
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="",Sony Six HD(Opt 2)
@@ -336,7 +391,7 @@ http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34487
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34491
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-3.jpg",Star Sports 3
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34490
-#EXTINF:-1 group-title="Kids" tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/03/Screenshot_1.png" group-title="Music",Sony Yay
+#EXTINF:-1 group-title="Kids" tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/03/Screenshot_1.png",Sony Yay
 http://mhms11.airtel.tv/wh7f454c46tw1799333471_1357632319/PLTV/88888888/224/3221226502/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/Star_Sports_(East_Asian_TV_channel)#/media/File:Star_Sports_2.png" group-title="",Star Sports HD
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34493
@@ -349,7 +404,7 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221225936/02.m3u8
 #EXTINF:-1,E Telugu (IN)
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34443
 #EXTINF:-1,Gemini HD(IN)
-http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34442
+http://ok2.se:8000/movie/JIKNlohMeZ/t9HYwQWpzn/48539.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Bioskop.png" group-title="INDIA",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Star_TV_logosu.png" group-title="",Star TV
@@ -451,9 +506,9 @@ https://live2.hoolatv.com/live/bbcone_hi/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="News",BBC Two
 https://live2.hoolatv.com/live/bbctwo_hi/chunks.m3u8
 #EXTINF:-1,Sonic Tamil (IN)
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74633
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74633
 #EXTINF:-1,Sony BBC Earth HD (IN)
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74632
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74632
 #EXTINF:-1,Sony BBC Earth HD Tamil (IN)
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="Infotainment",Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
