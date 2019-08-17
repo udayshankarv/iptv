@@ -1,22 +1,36 @@
 #EXTM3U
+#EXTINF:-1  group-title="Entertainment",Star Vijay (FHD)
+http://54.39.124.28/pro.php/http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg",Sun TV HD (IN)
-http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74611
+http://ip.sltv.be:8000/namik77/77namik/3759
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg",Sun TV HD (IN)
 http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74612
 
-#EXTINF:-1  group-title="Entertainment",Star Vijay (FHD)
-http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
-#EXTINF:-1  group-title="Entertainment",Star Vijay (IN)
+#EXTINF:-1  group-title="Entertainment",Star Vijay (HD)
+http://ip.sltv.be:8000/namik77/77namik/94445
 
-http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Entertainment",Star Vijay (Opt 3)
-http://54.39.124.28/pro.php/http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Logo_of_Zee_Tamil_2015.jpg",Zee Tamil (IN)
+http://ip.sltv.be:8000/namik77/77namik/3779
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/colors_in.jpg",Colours Tamil HD
+http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74890
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://en.wikipedia.org/wiki/Raj_TV#/media/File:Raj_TV_Tamil.png",Raj (IN)
 http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Polimer TV (IN)
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226103/02.m3u8
 #EXTINF:-1 group-title="Entertainment",Polimer TV (Opt-1)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/index.m3u8
+#EXTINF:-1  group-title="Movies" tvg-logo="https://3.bp.blogspot.com/-rBQ_ct0PGQA/VjChr6jCf-I/AAAAAAAAAGI/objhO5bYdYA/s1600/jaya-movies-yupptv.in.png",J Movies (IN)
+http://ip.sltv.be:8000/namik77/77namik/94458
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="Entertainment",Akaram
+http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
+http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="" ,Isai Aruvi
+http://cdn.asianetmobiletvplus.com/channels/isaiaruvi_gvrkulcfwmgiiayfrlmcorerghfvjgrf/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.supertv.in/img/logo.png" group-title="Entertainment",Super TV
+http://livematrix.in:1935/supertv/supertv/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",C Tamil
+http://ctamiltv.livebox.co.in/ctamiltvhls/live.m3u8
 #EXTINF:-1 group-title="Comedy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_adithya.jpg",Adithya
 http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74930
 #EXTINF:-1  group-title="Comedy",Sirippoli (IN)
@@ -31,10 +45,7 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226091/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="Entertainment",Kalaignar (Opt 3)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226091/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/colors_in.jpg",Colours Tamil HD
-http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74890
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Logo_of_Zee_Tamil_2015.jpg",Zee Tamil (IN)
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225929/04.m3u8http://jkzqgw3zrm9o-hls-live.wmncdn.net/969/vaanaviltv/live.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Logo_of_Zee_Tamil_2015.jpg",Zee Tamil HD(IN)
 http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74507
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/Vendhar_TV#/media/File:Logo_of_Vendhar_TV.jpg" group-title="Entertainment",Vendhar TV
@@ -61,8 +72,6 @@ http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/index.m3u8
 http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://3.bp.blogspot.com/-QPKrFqicxRg/UJ9Yua4Y2hI/AAAAAAAAAS4/f7l6H4MZh2k/s320/tamilantv-logo.gif" group-title="Entertainment",Tamilan Television
 http://8ovgdk34qmpw-hls-live.wmncdn.net/307/tamilan/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="Entertainment",Akaram
-http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wWIknEr.jpg" group-title="Entertainment",Akaram Gallata TV
 http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
 #EXTINF:-1 group-title="Kids",Chutti TV (IN)
@@ -172,6 +181,11 @@ http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74681
 #EXTINF:-1 group-title="News" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lotus_news_in.jpg",Lotus News
 http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74730
 
+#EXTINF:-1 group-title="Movies",Sony Pix HD (IN)
+http://ip.sltv.be:8000/namik77/77namik/94457
+
+#EXTINF:-1 group-title="Movies",IN: HBO
+http://ip.sltv.be:8000/namik77/77namik/94468
 #EXTINF:-1 group-title="Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_kondattam_tv.jpg",KTV HD 
 http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74744
 #EXTINF:-1 group-title="Movies" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_life.jpg",Sun Life
@@ -186,19 +200,26 @@ http://212.8.253.91:7892/anax/vijaysuper/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74808
 #EXTINF:-1 group-title="Movies",Gemini Movies HD(Opt 2)
 http://mhms11.airtel.tv/wh7f454c46tw589117922_1611517725/PLTV/88888888/224/3221226577/index.m3u8
-
-#EXTINF:-1 group-title="Movies",HBO HD (IN)
-http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74797
-#EXTINF:-1 group-title="Movies",AND Prive HD (IN)
-http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74945
-#EXTINF:-1 group-title="Movies",Movies Now 2 (IN)
-http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74714
-#EXTINF:-1 group-title="Movies",Movies Now HD (IN)
-http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74715
-#EXTINF:-1 group-title="Movies",Sony Pix HD (IN)
-http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74626
-#EXTINF:-1 group-title="Movies",WB (IN)
-http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74521
+#EXTINF:-1,US: HBO
+http://ip.sltv.be:8000/namik77/77namik/130916
+#EXTINF:-1,US: HBO Comedy
+http://ip.sltv.be:8000/namik77/77namik/130915
+#EXTINF:-1,US: HBO Comedy HD
+http://ip.sltv.be:8000/namik77/77namik/137370
+#EXTINF:-1,US: HBO East
+http://ip.sltv.be:8000/namik77/77namik/137369
+#EXTINF:-1,US: HBO Family
+http://ip.sltv.be:8000/namik77/77namik/130914
+#EXTINF:-1,US: HBO Family HD
+http://ip.sltv.be:8000/namik77/77namik/137368
+#EXTINF:-1,US: HBO HD
+http://ip.sltv.be:8000/namik77/77namik/137367
+#EXTINF:-1,US: HBO SIGNATURE
+http://ip.sltv.be:8000/namik77/77namik/130913
+#EXTINF:-1,US: HBO Signature HD
+http://ip.sltv.be:8000/namik77/77namik/137366
+#EXTINF:-1,US: HBO ZONE
+http://ip.sltv.be:8000/namik77/77namik/130912
 #EXTINF:-1,UK FHD | Sky Cinema Action FHD
 http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/50390
 #EXTINF:-1,UK FHD | Sky Cinema Comedy FHD
@@ -295,6 +316,10 @@ http://ppvplug.net:8000/eY4VO1PRUN/lfKDdTNJxi/17621
 http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMTkgMzo0NDoyMiBQTSZoYXNoX3ZhbHVlPVBEV3o1ZUtVSnN0aThNSzU5ZmhnelE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="Movies",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 group-title="Movies" ,And Pictures
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226049/index.m3u8
+#EXTINF:-1 group-title="Movies" ,Sony Max HD
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movies",Star Movies (Opt-1)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movies",Star Movies (Opt-2)
@@ -317,6 +342,106 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",HBO2 [720p]
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1,US: Showtime 2
+http://ip.sltv.be:8000/namik77/77namik/137322
+#EXTINF:-1,US: Showtime 2 HD
+http://ip.sltv.be:8000/namik77/77namik/137302
+#EXTINF:-1,US: Showtime East HD
+http://ip.sltv.be:8000/namik77/77namik/137301
+#EXTINF:-1,US: Showtime FHD
+http://ip.sltv.be:8000/namik77/77namik/137300
+#EXTINF:-1,US: Showtime Showcase HD
+http://ip.sltv.be:8000/namik77/77namik/137299
+
+#EXTINF:-1,UK: Sky Cinema Action FHD
+http://ip.sltv.be:8000/namik77/77namik/177564
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://ip.sltv.be:8000/namik77/77namik/177565
+#EXTINF:-1,UK: Sky Cinema Action (B)
+http://ip.sltv.be:8000/namik77/77namik/1328
+#EXTINF:-1,UK: Sky Cinema Comedy FHD
+http://ip.sltv.be:8000/namik77/77namik/177561
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://ip.sltv.be:8000/namik77/77namik/177560
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://ip.sltv.be:8000/namik77/77namik/1329
+#EXTINF:-1,UK: Sky Cinema Thriller HD
+http://ip.sltv.be:8000/namik77/77namik/177551
+#EXTINF:-1,UK: Sky Cinema Thriller FHD
+http://ip.sltv.be:8000/namik77/77namik/177552
+#EXTINF:-1,UK: Sky Cinema Thriller
+http://ip.sltv.be:8000/namik77/77namik/15019
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://ip.sltv.be:8000/namik77/77namik/177544
+#EXTINF:-1,UK: Sky Cinema Disney
+http://ip.sltv.be:8000/namik77/77namik/15015
+#EXTINF:-1,UK: Sky Cinema Drama HD
+http://ip.sltv.be:8000/namik77/77namik/177558
+#EXTINF:-1,UK: Sky Cinema Drama
+http://ip.sltv.be:8000/namik77/77namik/15016
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://ip.sltv.be:8000/namik77/77namik/177562
+#EXTINF:-1,UK: Sky Cinema Family
+http://ip.sltv.be:8000/namik77/77namik/1332
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://ip.sltv.be:8000/namik77/77namik/177554
+#EXTINF:-1,UK: Sky Cinema Greats
+http://ip.sltv.be:8000/namik77/77namik/177553
+#EXTINF:-1,UK: Sky Cinema Premiere FHD
+http://ip.sltv.be:8000/namik77/77namik/177555
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://ip.sltv.be:8000/namik77/77namik/177556
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://ip.sltv.be:8000/namik77/77namik/1334
+#EXTINF:-1,UK: Sky Cinema Sci-fi & Horror FHD
+http://ip.sltv.be:8000/namik77/77namik/177549
+#EXTINF:-1,UK: Sky Cinema Sci-fi & Horror HD
+http://ip.sltv.be:8000/namik77/77namik/177550
+#EXTINF:-1,UK: Sky Cinema Sci-fi & Horror
+http://ip.sltv.be:8000/namik77/77namik/15018
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://ip.sltv.be:8000/namik77/77namik/177559
+#EXTINF:-1,UK: Sky Cinema Select
+http://ip.sltv.be:8000/namik77/77namik/1336
+#EXTINF:-1,UK: Sky Box Office 1 HD
+http://ip.sltv.be:8000/namik77/77namik/177548
+#EXTINF:-1,UK: Sky Box Office 2 HD
+http://ip.sltv.be:8000/namik77/77namik/177547
+#EXTINF:-1,UK: Sky Box Office 3/3D HD
+http://ip.sltv.be:8000/namik77/77namik/177546
+#EXTINF:-1,UK: Sky Box Office 4 HD
+http://ip.sltv.be:8000/namik77/77namik/177545
+#EXTINF:-1,UK: True Movies FHD
+http://ip.sltv.be:8000/namik77/77namik/15025
+#EXTINF:-1,UK: True Movies 1
+http://ip.sltv.be:8000/namik77/77namik/3979
+#EXTINF:-1,UK: True Movies 2
+http://ip.sltv.be:8000/namik77/77namik/3980
+#EXTINF:-1,UK: Cbs Action FHD
+http://ip.sltv.be:8000/namik77/77namik/15022
+#EXTINF:-1,UK: Cbs Drama FHD
+http://ip.sltv.be:8000/namik77/77namik/15023
+#EXTINF:-1,UK: Cbs Reality FHD
+http://ip.sltv.be:8000/namik77/77namik/15024
+#EXTINF:-1,UK: Film 4
+http://ip.sltv.be:8000/namik77/77namik/177541
+#EXTINF:-1,UK: Movies4man
+http://ip.sltv.be:8000/namik77/77namik/177539
+#EXTINF:-1,UK: Sony Movies HD
+http://ip.sltv.be:8000/namik77/77namik/177540
+#EXTINF:-1,UK: Sony Sab HD
+http://ip.sltv.be:8000/namik77/77namik/177536
+#EXTINF:-1,UK: TCM 1 HD
+http://ip.sltv.be:8000/namik77/77namik/177538
+#EXTINF:-1,UK: TCM HD
+http://ip.sltv.be:8000/namik77/77namik/177537
+#EXTINF:-1,UK: Fox HD
+http://ip.sltv.be:8000/namik77/77namik/198447
+#EXTINF:-1,UK: Warner Brothers
+http://ip.sltv.be:8000/namik77/77namik/199529
+#EXTINF:-1,UK: Universal Channel HD
+http://ip.sltv.be:8000/namik77/77namik/177542
+
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movies",Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="Movies",Filmrise Crime
@@ -407,10 +532,14 @@ http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34465
 http://tvservice.pro/919871031490/T7zFyJRbwwrHjma/34473
 #EXTINF:-1 group-title="Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_music.jpg",Sun Music
 http://ok2.se:8000/JIKNlohMeZ/t9HYwQWpzn/74613
+#EXTINF:-1 group-title="Music" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sun_music.jpg",Sun Music
+http://ip.sltv.be:8000/namik77/77namik/3760
 #EXTINF:-1 group-title="Music",Jaya Max (IN)
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226101/02.m3u8
 #EXTINF:-1 group-title="Music",Jaya Max (Opt 2)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226101/index.m3u8
+#EXTINF:-1 group-title="Music",Jaya Max (Opt 3)
+http://ip.sltv.be:8000/namik77/77namik/94473
 #EXTINF:-1 group-title="Music",Peppers (IN)
 http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Music",Peppers Opt2(IN)
@@ -978,8 +1107,6 @@ http://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.subrangtv.com/wp-content/uploads/2017/03/custom-logo.jpg" group-title="",Subrang TV
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.supertv.in/img/logo.png" group-title="",Super TV
-http://livematrix.in:1935/supertv/supertv/chunklist_w797227048.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NLq17Q8.jpg" group-title="",Sur Sagar TV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tehlka.ca/wp-content/uploads/2017/06/logo.jpg" group-title="",Tehlka
